@@ -7,7 +7,6 @@ import mainRoute from "./routes/MainRoute";
 function App() {
   return (
     <RouterProvider router={mainRoute}/>
-    // 
   );
 }
 
