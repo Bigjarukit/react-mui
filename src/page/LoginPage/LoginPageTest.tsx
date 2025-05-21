@@ -18,6 +18,7 @@ export default function LoginPageTest() {
     setArrays(copy);
   };
 
+  
   console.log("3", arrays);
   return (
     <div>
