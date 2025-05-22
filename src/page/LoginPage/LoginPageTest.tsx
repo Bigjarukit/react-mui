@@ -15,6 +15,7 @@ export default function LoginPageTest() {
   const fnDelete = (index: number) => {
     const copy = [...arrays];
     copy.splice(index, 1);
+      // 
     setArrays(copy);
   };
 
